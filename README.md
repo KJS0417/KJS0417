@@ -1,16 +1,15 @@
-### Hi there 👋
+## Introduction
+안녕하세요.
+SW프로세스를 좋아합니다.
 
-<!--
-**KJS0417/KJS0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career
+- 영남대학교 재학중
 
-Here are some ideas to get you started:
+## Links
+- E-mail - kjs417213@yu.ac.kr
+- Instagram - jinsu_0417
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Available programming Languages
+- python
+- C
+- C++
